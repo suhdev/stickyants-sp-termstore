@@ -1,0 +1,35 @@
+{
+  "name": "stickyants-sp-termstore",
+  "version": "1.0.0",
+  "description": "A utility class to simplify common term store functionality for SharePoint Online/2013/2016 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhdev/stickyants-sp-termstore.git"
+  },
+  "keywords": [
+    "SharePoint",
+    "Online",
+    "SharePoint",
+    "On-prem",
+    "Term",
+    "Store",
+    "Taxonomy",
+    "SPO"
+  ],
+  "author": "Suhail Abood <suhail.abood>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhdev/stickyants-sp-termstore/issues"
+  },
+  "homepage": "https://github.com/suhdev/stickyants-sp-termstore#readme",
+  "devDependencies": {
+    "@types/sharepoint": "^2016.1.2",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
